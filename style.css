@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+
+  background-image: linear-gradient(to bottom right, #dfd3c3, #f8ede3);
+
+  color: black;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  color: #543310;
+}
+
+h2 {
+  color: #8D493A;
+}
+h3 {
+  color: #543310;
+}
+ul {
+  list-style-type: none;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: #543310;
+}
