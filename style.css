@@ -2,10 +2,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 20px;
-
-  background-image: linear-gradient(to bottom right, #dfd3c3, #f8ede3);
-
-  color: black;
+  color:#181C14 ;
 }
 
 header {
@@ -13,21 +10,28 @@ header {
 }
 
 h1 {
-  color: #543310;
+  color: #181C14;
 }
 
 h2 {
-  color: #8D493A;
+  color: #3C3D37;
 }
 h3 {
-  color: #543310;
+  color: #697565;
 }
 ul {
-  list-style-type: none;
-}
+  list-style-type: disc;
 
+}
+strong{
+  color: #697565;
+}
 footer {
   text-align: center;
   margin-top: 20px;
-  color: #543310;
+  
+}
+a{
+  color: #1E5128;
+  text-decoration: none;
 }
